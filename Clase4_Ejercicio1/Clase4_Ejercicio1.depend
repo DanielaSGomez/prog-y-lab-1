@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1553616351 source:c:\users\dani chan\desktop\guia 1 campus\prog-y-lab-1\clase4_ejercicio1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1553617724 source:c:\users\dani chan\desktop\guia 1 campus\prog-y-lab-1\clase4_ejercicio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Headers/utn.h"
+
+1553616351 c:\users\dani chan\desktop\guia 1 campus\prog-y-lab-1\clase4_ejercicio1\headers\utn.h
+
