@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include "Headers/utn.h"
 
 /**
  * \brief Solicita un número al usuario y devuelve el resultado
